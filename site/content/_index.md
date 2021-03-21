@@ -1,20 +1,35 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Wyremontuj mieszkanie z głową
+subtitle: Czyli jak wyremontować mieszkanie pod wynajem tak, żeby na wynajmie zarobić
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
-intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Dlaczego my?
+  text: >-
+    Mamy doświadczenie w remontowaniu z ograniczonym budżetem. Pierwsze
+    mieszkanie, to było nasze własne lokum - udało nam się wyrobić 20% poniżej
+    zakładanego budżetu. Następne to było już mieszkanie na wynajem - pobiliśmy
+    wszelkie rekordy!
 
+
+    Właśnie skończyłam projekt remontu mieszkania pod wynajem na warszawskim Żoliborzu. Na cały remont 40m2- od stanu developerskiego do mieszkania gotowego do wprowadzenia się nowych mieszkańców - miałam 30 tyś. PLN. Nie było łatwo, ale udało się stworzyć ładne, nowoczesne i czyste mieszkanie dla singla lub młodej pary. 
+
+    Sukces takiego projektu to nie przypadek. Na każdym kroku trzeba podejmować mądre decyzje i decydować, gdzie należy zainwestować więcej, a gdzie należy wybrać rozsądne alternatywy. 
+intro:
+  heading: What we offer
+  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone.
+products:
+  - image: img/illustrations-coffee.svg
+    text: Planowanie budżetu
+  - text: Identyfikacja persony - wynajmującego
+    image: img/paint-tin-1160581.jpg
+  - text: Nadzór nad budżetem podczas realizacji
+    image: img/paint-tin-1160570.jpg
+  - text: "Wyliczenie stopy zwrotu z inwestycji "
+    image: img/paint-tin-1160566.jpg
+values:
+  heading: Nasze Wartości
+  text: "Pomagamy inwestorom nie poddawać się emocjom. "
+---
